@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-nishida-app/static/css/main.1cbb1252.chunk.css",
-    "main.js": "/react-nishida-app/static/js/main.3ee10196.chunk.js",
-    "main.js.map": "/react-nishida-app/static/js/main.3ee10196.chunk.js.map",
+    "main.js": "/react-nishida-app/static/js/main.0b5ca053.chunk.js",
+    "main.js.map": "/react-nishida-app/static/js/main.0b5ca053.chunk.js.map",
     "runtime-main.js": "/react-nishida-app/static/js/runtime-main.e0fa1dc1.js",
     "runtime-main.js.map": "/react-nishida-app/static/js/runtime-main.e0fa1dc1.js.map",
     "static/js/2.f674c572.chunk.js": "/react-nishida-app/static/js/2.f674c572.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.e0fa1dc1.js",
     "static/js/2.f674c572.chunk.js",
     "static/css/main.1cbb1252.chunk.css",
-    "static/js/main.3ee10196.chunk.js"
+    "static/js/main.0b5ca053.chunk.js"
   ]
 }
